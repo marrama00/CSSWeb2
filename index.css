@@ -1,0 +1,121 @@
+
+
+h1{
+    color: rgb(26, 26, 87);
+    text-align: center;
+    font-size: 30pt;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+}
+
+h3{
+    color: rgb(9, 9, 80);
+    font-size:14pt;
+    background-color: yellow;
+}
+
+#abajo{
+    margin-top: 1.5cm;
+}
+
+#menu{
+    text-align: center;
+}
+
+#indice{
+    text-align: left;
+}
+
+
+#contenido{
+    background-position: top left;
+    color: white;
+    float: left;
+    height:970px;
+    padding:10px;
+    width:900px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 15cm;
+    margin-right: 15cm;
+    background-color: purple;
+}
+
+#contenido2 {
+    clear: left;
+    height:970px;
+    padding:10px;
+    width:910px;
+    color: white;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 15cm;
+    margin-left: 15cm;
+    background-color: purple;
+}
+
+#lateral{
+    clear: left;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#pie{
+    clear:both;
+    padding:10px;
+    text-align:center;
+    font-size: 8pt;
+    background-color: purple;
+}
+
+#anterior{
+    padding: 10px;
+    float:left;
+    margin-left: 5cm;
+    color: white;
+}
+
+#siguiente{
+    padding: 10px;
+    float: right;
+    margin-right: 5cm;
+    color: white;
+}
+
+table {
+margin: 0 auto;
+border: white;
+border-style:solid;
+}
+
+th{
+    background-color: rgb(98, 108, 245);
+    border-style: solid;
+    color: white;
+}
+
+td{
+    background-color: rgb(248, 48, 75);
+    border-style: solid;
+    color: white;
+    text-align: center;
+}
+
+#total{
+    background-color: rgb(98, 108, 245);
+    border-style: solid;
+}
+
+#total2{
+    background-color:  rgb(248, 48, 75);
+    border-style: groove;
+}
+
+a{
+    color: white;
+}
+
+a:visited{
+    color: yellow;
+}
